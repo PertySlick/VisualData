@@ -1,0 +1,97 @@
+{
+    "carModel": {
+        {
+            "make": "Ford",
+            "model": "Ranger",
+            "year": "2000",
+            "color": "#ffffff",
+            "current_owner": {
+                "name": "Tim Roush",
+                },
+            "owner_history" : [
+                {
+                    "name": "Tim Roush"
+                    }
+            ],
+        },
+        {
+            "make": "Chevrolet",
+            "model": "Camaro",
+            "year": 1969,
+            "color": "#aa0000",
+            "current_owner": {
+                "name": "Jack Bauer"
+                },
+            "owner_history" : [
+                {
+                    "name": "Chuck Norris",
+                    "name": "Sally Fields"
+                    }
+            ],
+        },
+        {
+            "make": "Dodge",
+            "model": "Carger",
+            "year": 1972,
+            "color": "#00ffff",
+            "current_owner": {
+                "name": "Bandit"
+                },
+            "owner_history" : [
+                {
+                    "name": "Baloo",
+                    "name": "John Spartan"
+                    }
+            ],
+        }
+    }
+}
+
+{
+    "carModel": {
+        {
+            "make": "Ford",
+            "model": "Ranger",
+            "year": "2000",
+            "color": "#ffffff",
+            "current_owner": {
+                "name": "Tim Roush",
+                },
+            "owner_history" : [
+                {
+                    "name": "Tim Roush"
+                    }
+            ],
+        },
+        {
+            "make": "Chevrolet",
+            "model": "Camaro",
+            "year": 1969,
+            "color": "#aa0000",
+            "current_owner": {
+                "name": "Jack Bauer"
+                },
+            "owner_history" : [
+                {
+                    "name": "Chuck Norris",
+                    "name": "Sally Fields"
+                    }
+            ],
+        },
+        {
+            "make": "Dodge",
+            "model": "Carger",
+            "year": 1972,
+            "color": "#00ffff",
+            "current_owner": {
+                "name": "Bandit"
+                },
+            "owner_history" : [
+                {
+                    "name": "Baloo",
+                    "name": "John Spartan"
+                    }
+            ],
+        }
+    }
+}
